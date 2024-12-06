@@ -9,8 +9,8 @@ lesDonneesDesComptes = {'usernames': {'sophie': {'name': 'utilisateur',
    'failed_login_attemps': 0, # Sera géré automatiquement
    'logged_in': False, # Sera géré automatiquement
    'role': 'utilisateur'},
-  'root': {'name': 'root',
-   'password': 'rootMDP',
+  'utilisateur': {'name': 'root',
+   'password': 'utilisateurMDP',
    'email': 'admin@gmail.com',
    'failed_login_attemps': 0, # Sera géré automatiquement
    'logged_in': False, # Sera géré automatiquement
